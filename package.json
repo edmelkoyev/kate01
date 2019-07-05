@@ -1,0 +1,23 @@
+{
+  "name": "kate01",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edmelkoyev/kate01.git"
+  },
+  "author": "kate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edmelkoyev/kate01/issues"
+  },
+  "homepage": "https://github.com/edmelkoyev/kate01#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
