@@ -18,6 +18,6 @@
   "homepage": "https://github.com/edmelkoyev/kate01#readme",
   "dependencies": {},
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
